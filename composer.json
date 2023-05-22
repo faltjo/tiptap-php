@@ -15,6 +15,9 @@
             "role": "Developer"
         }
     ],
+    "replace": {
+        "ueberdosis/tiptap-php": "1.2.0"
+    },
     "require": {
         "php": "^7.4|^8.0",
         "scrivo/highlight.php": "v9.18.1.9",
